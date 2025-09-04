@@ -116,11 +116,11 @@ INPUT /home/kerry/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 INPUT /home/kerry/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /home/kerry/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /home/kerry/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-INPUT ./images/rice-business.jpg
-INPUT ./images/rice-business.jpg
-INPUT ./images/rice-business.jpg
-INPUT ./images/rice-business.jpg
-INPUT ./images/rice-business.jpg
+INPUT ./images/rice-business-transparent-final.png
+INPUT ./images/rice-business-transparent-final.png
+INPUT ./images/rice-business-transparent-final.png
+INPUT ./images/rice-business-transparent-final.png
+INPUT ./images/rice-business-transparent-final.png
 INPUT /home/kerry/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /home/kerry/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /home/kerry/.TinyTeX/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm
