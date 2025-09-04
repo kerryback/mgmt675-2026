@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+  render: 
+    - index.qmd
+  
+                  
+website:
+  title: ""
+  search: false  
+  navbar:
+    search: false
+    title: MGMT 675
+    file: index.qmd
+   
+ 
+format:
+  html:
+    theme:
+      light: flatly
+      dark: superhero
+    link-external-newwindow: true
+    
+   
+
+
+
