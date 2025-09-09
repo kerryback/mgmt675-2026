@@ -125,7 +125,6 @@ INPUT /home/kerry/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /home/kerry/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /home/kerry/.TinyTeX/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm
 INPUT /home/kerry/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT /home/kerry/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /home/kerry/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT MGMT675.aux
 INPUT ./MGMT675.out
@@ -134,4 +133,3 @@ INPUT /home/kerry/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk
 INPUT /home/kerry/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /home/kerry/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /home/kerry/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT /home/kerry/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
