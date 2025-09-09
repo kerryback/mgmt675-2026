@@ -1,8 +1,8 @@
-PWD /home/kerry/repos/mgmt675
+PWD /home/kerry/repos/mgmt675/docs
 INPUT /home/kerry/.TinyTeX/texmf.cnf
 INPUT /home/kerry/.TinyTeX/texmf-dist/web2c/texmf.cnf
 INPUT /home/kerry/.TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /home/kerry/repos/mgmt675/MGMT675.tex
+INPUT /home/kerry/repos/mgmt675/docs/MGMT675.tex
 OUTPUT MGMT675.log
 INPUT /home/kerry/.TinyTeX/texmf-dist/tex/latex/base/article.cls
 INPUT /home/kerry/.TinyTeX/texmf-dist/tex/latex/base/article.cls

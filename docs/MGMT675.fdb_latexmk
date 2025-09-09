@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1757424076.20904 "/home/kerry/repos/mgmt675/MGMT675.tex" "MGMT675.pdf" "MGMT675" 1757424076.59261 0
+["pdflatex"] 1757434126.07937 "/home/kerry/repos/mgmt675/docs/MGMT675.tex" "MGMT675.pdf" "MGMT675" 1757434126.30162 0
   "/home/kerry/.TinyTeX/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
   "/home/kerry/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/home/kerry/.TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -61,10 +61,10 @@
   "/home/kerry/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk" 1751349268.43504 12644 1e400f40dfe4b8bbdc8569a158a18956 ""
   "/home/kerry/.TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt" 1756944186 2203603 e1784efcdec37c371dcf7b6a1b197cdf ""
   "/home/kerry/.TinyTeX/texmf.cnf" 1750428031.24714 637 edd806fb06a89761a6034e1968af9017 ""
-  "/home/kerry/repos/mgmt675/MGMT675.tex" 1757424076.00228 4906 78c033aad330d6fbf542e4e9c0f303e1 ""
-  "MGMT675.aux" 1757424076.55548 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
-  "MGMT675.out" 1757424076.46328 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "MGMT675.tex" 1757424076.00228 4906 78c033aad330d6fbf542e4e9c0f303e1 ""
+  "/home/kerry/repos/mgmt675/docs/MGMT675.tex" 1757434125.95468 4906 1a5842700bf9a8372f3dda8917bf7092 ""
+  "MGMT675.aux" 1757434126.27868 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
+  "MGMT675.out" 1757434126.23548 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "MGMT675.tex" 1757434125.95468 4906 1a5842700bf9a8372f3dda8917bf7092 ""
   "images/rice-business-transparent-final.png" 1756994635.84281 66841 edc38332c7ba397dd30d0a8cc644f80a ""
   (generated)
   "MGMT675.aux"
