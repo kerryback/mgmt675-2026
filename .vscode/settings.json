@@ -1,0 +1,30 @@
+{
+    "latex-workshop.latex.tools": [
+        {
+            "name": "pdflatex",
+            "command": "pdflatex",
+            "args": [
+                "-synctex=1",
+                "-interaction=nonstopmode",
+                "-file-line-error",
+                "%DOC%"
+            ]
+        },
+        {
+            "name": "cleanup",
+            "command": "python",
+            "args": [
+                "clean_tex.py"
+            ]
+        }
+    ],
+    "latex-workshop.latex.recipes": [
+        {
+            "name": "pdflatex with cleanup",
+            "tools": [
+                "pdflatex",
+                "cleanup"
+            ]
+        }
+    ]
+}

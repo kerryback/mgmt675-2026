@@ -1,4 +1,10 @@
 
-![](images/rice-business.jpg){width=40%} 
+## Generative AI for Finance<br>Spring 2026
 
-## AI-Assisted Financial Analysis<br>Spring 2026<br><br>[Syllabus](MGMT675.pdf)
+![](RiceBusiness-transparent-logo-sm.png){width=40%} 
+
+- [Syllabus](syllabus.pdf)
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="slides-construction.png" alt="Teaching Finance with AI" style="width: 40%; height: auto;">
+</div>

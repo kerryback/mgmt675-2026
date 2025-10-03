@@ -5,6 +5,10 @@ project:
     - index.qmd
   resources:
     - CNAME
+    - .nojekyll
+    - syllabus.pdf
+    
+
   
                   
 website:
